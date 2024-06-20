@@ -20,7 +20,7 @@ To use this script, you need to have Python installed on your system. You can do
 1. Clone this repository or download the script file.
 
     ```bash
-    git clone https://github.com/yourusername/file-organizer.git
+    git clone https://github.com/Bril3d/Organize_Directories.git
     cd file-organizer
     ```
 
